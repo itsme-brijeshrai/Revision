@@ -1,0 +1,7 @@
+Java Constructor                                    |                     Java Method
+* A constructor is an special method used to            * A method is an block of code that performs a 
+initialize an object.                                     certain task.
+* A constructor must not have a return type             * A method must have the return type.
+* The constructor name must be the same as              * The method name may or may not be the same as class name.
+the class name.                                         * The method is invoked explicitly.
+* The constructor is invoked implicitly.

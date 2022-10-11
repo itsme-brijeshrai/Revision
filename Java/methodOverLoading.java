@@ -1,4 +1,5 @@
 package Java;
+//it is static method and it gives compile time error.
 // multiple methods can have the same name with different parameters.
 // we can get it by 2 methods (i) -> by changing the number of arguments
                         //    (ii)-> by changing the data type of the arguments.
