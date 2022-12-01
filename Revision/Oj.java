@@ -1,6 +1,3 @@
-import java.util.Arrays;
-import java.util.Map;
-
 public class Oj {
     public static void main(String[] args) {
         int n = 4;
